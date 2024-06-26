@@ -1,0 +1,89 @@
+# eclipse ignore
+.classpath
+.project
+.settings/
+.springBeans
+.metadata/
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+>>>>>>> origin/master
+# idea ignore
+*.iml
+.idea/
+*.ipr
+*.iml
+*.iws
+.factorypath
+
+# maven ignore
+target/
+*.class
+*.war
+*.zip
+*.tar
+*.tar.gz
+.mvn
+mvnw
+mvnw.cmd
+# temp ignore
+*.log
+*.log.gz
+*.cache
+*.diff
+*.patch
+*.tmp
+logs/
+build/
+*.java~
+*.properties~
+*.xml~
+
+
+# system ignore
+.DS_Store
+Thumbs.db 
+
+
+#mgb
+generatorConfig.xml
+generatorConfig.properties
+mbg
+
+
+
+
+
+
+/META-INF
+META-INF/
+.mymetadata
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+#mgb
+
+/META-INF
+META-INF/
+.mymetadata
+
+# gradle related ignore in sub directories
+.gradle
+
+#vscode
+.vscode
+
